@@ -1,0 +1,46 @@
+c:\users\adoje\documents\visual studio 2017\Projects\WhatItIs\WhatItIs\bin\Bot Application.dll.config
+c:\users\adoje\documents\visual studio 2017\Projects\WhatItIs\WhatItIs\bin\Bot Application.dll
+c:\users\adoje\documents\visual studio 2017\Projects\WhatItIs\WhatItIs\bin\Bot Application.pdb
+c:\users\adoje\documents\visual studio 2017\Projects\WhatItIs\WhatItIs\bin\Autofac.dll
+c:\users\adoje\documents\visual studio 2017\Projects\WhatItIs\WhatItIs\bin\Chronic.dll
+c:\users\adoje\documents\visual studio 2017\Projects\WhatItIs\WhatItIs\bin\Microsoft.Bot.Builder.Autofac.dll
+c:\users\adoje\documents\visual studio 2017\Projects\WhatItIs\WhatItIs\bin\Microsoft.Bot.Builder.dll
+c:\users\adoje\documents\visual studio 2017\Projects\WhatItIs\WhatItIs\bin\Microsoft.Bot.Connector.dll
+c:\users\adoje\documents\visual studio 2017\Projects\WhatItIs\WhatItIs\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+c:\users\adoje\documents\visual studio 2017\Projects\WhatItIs\WhatItIs\bin\Microsoft.Rest.ClientRuntime.dll
+c:\users\adoje\documents\visual studio 2017\Projects\WhatItIs\WhatItIs\bin\Microsoft.WindowsAzure.Configuration.dll
+c:\users\adoje\documents\visual studio 2017\Projects\WhatItIs\WhatItIs\bin\Newtonsoft.Json.dll
+c:\users\adoje\documents\visual studio 2017\Projects\WhatItIs\WhatItIs\bin\System.IdentityModel.Tokens.Jwt.dll
+c:\users\adoje\documents\visual studio 2017\Projects\WhatItIs\WhatItIs\bin\System.Net.Http.Formatting.dll
+c:\users\adoje\documents\visual studio 2017\Projects\WhatItIs\WhatItIs\bin\System.Web.Http.dll
+c:\users\adoje\documents\visual studio 2017\Projects\WhatItIs\WhatItIs\bin\System.Web.Http.WebHost.dll
+c:\users\adoje\documents\visual studio 2017\Projects\WhatItIs\WhatItIs\bin\Autofac.xml
+c:\users\adoje\documents\visual studio 2017\Projects\WhatItIs\WhatItIs\bin\Microsoft.Bot.Builder.xml
+c:\users\adoje\documents\visual studio 2017\Projects\WhatItIs\WhatItIs\bin\Microsoft.Bot.Builder.Autofac.xml
+c:\users\adoje\documents\visual studio 2017\Projects\WhatItIs\WhatItIs\bin\Microsoft.Bot.Connector.xml
+c:\users\adoje\documents\visual studio 2017\Projects\WhatItIs\WhatItIs\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+c:\users\adoje\documents\visual studio 2017\Projects\WhatItIs\WhatItIs\bin\Microsoft.WindowsAzure.Configuration.xml
+c:\users\adoje\documents\visual studio 2017\Projects\WhatItIs\WhatItIs\bin\Newtonsoft.Json.xml
+c:\users\adoje\documents\visual studio 2017\Projects\WhatItIs\WhatItIs\bin\System.IdentityModel.Tokens.Jwt.xml
+c:\users\adoje\documents\visual studio 2017\Projects\WhatItIs\WhatItIs\bin\System.Net.Http.Formatting.xml
+c:\users\adoje\documents\visual studio 2017\Projects\WhatItIs\WhatItIs\bin\System.Web.Http.xml
+c:\users\adoje\documents\visual studio 2017\Projects\WhatItIs\WhatItIs\bin\System.Web.Http.WebHost.xml
+c:\users\adoje\documents\visual studio 2017\Projects\WhatItIs\WhatItIs\bin\ar\Microsoft.Bot.Builder.resources.dll
+c:\users\adoje\documents\visual studio 2017\Projects\WhatItIs\WhatItIs\bin\cs\Microsoft.Bot.Builder.resources.dll
+c:\users\adoje\documents\visual studio 2017\Projects\WhatItIs\WhatItIs\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+c:\users\adoje\documents\visual studio 2017\Projects\WhatItIs\WhatItIs\bin\en\Microsoft.Bot.Builder.resources.dll
+c:\users\adoje\documents\visual studio 2017\Projects\WhatItIs\WhatItIs\bin\es\Microsoft.Bot.Builder.resources.dll
+c:\users\adoje\documents\visual studio 2017\Projects\WhatItIs\WhatItIs\bin\fa\Microsoft.Bot.Builder.resources.dll
+c:\users\adoje\documents\visual studio 2017\Projects\WhatItIs\WhatItIs\bin\fr\Microsoft.Bot.Builder.resources.dll
+c:\users\adoje\documents\visual studio 2017\Projects\WhatItIs\WhatItIs\bin\ja\Microsoft.Bot.Builder.resources.dll
+c:\users\adoje\documents\visual studio 2017\Projects\WhatItIs\WhatItIs\bin\ru\Microsoft.Bot.Builder.resources.dll
+c:\users\adoje\documents\visual studio 2017\Projects\WhatItIs\WhatItIs\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+c:\users\adoje\documents\visual studio 2017\Projects\WhatItIs\WhatItIs\obj\Debug\WhatItIs.csprojResolveAssemblyReference.cache
+c:\users\adoje\documents\visual studio 2017\Projects\WhatItIs\WhatItIs\obj\Debug\Bot Application.dll
+c:\users\adoje\documents\visual studio 2017\Projects\WhatItIs\WhatItIs\obj\Debug\Bot Application.pdb
+c:\users\adoje\documents\visual studio 2017\Projects\WhatItIs\WhatItIs\bin\Microsoft.Cognitive.Vision.dll
+c:\users\adoje\documents\visual studio 2017\Projects\WhatItIs\WhatItIs\bin\System.Net.Http.Extensions.dll
+c:\users\adoje\documents\visual studio 2017\Projects\WhatItIs\WhatItIs\bin\System.Net.Http.Primitives.dll
+c:\users\adoje\documents\visual studio 2017\Projects\WhatItIs\WhatItIs\bin\System.Net.Http.Extensions.xml
+c:\users\adoje\documents\visual studio 2017\Projects\WhatItIs\WhatItIs\bin\System.Net.Http.Primitives.xml
+c:\users\adoje\documents\visual studio 2017\Projects\WhatItIs\WhatItIs\obj\Debug\WhatItIs.csproj.App.config
